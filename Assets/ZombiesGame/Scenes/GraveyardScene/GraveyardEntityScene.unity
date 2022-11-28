@@ -168,8 +168,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FieldDimensions:
-    x: 200
-    y: 200
+    x: 75
+    y: 75
   NumberTombstonesToSpawn: 200
   TombstonePrefab: {fileID: 14975308294066400, guid: 40686a6c484c6574386f4e9f32d9d9d9,
     type: 3}
