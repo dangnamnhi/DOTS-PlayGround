@@ -168,11 +168,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FieldDimensions:
-    x: 0
-    y: 0
-  NumberTombstonesToSpawn: 0
+    x: 200
+    y: 200
+  NumberTombstonesToSpawn: 200
   TombstonePrefab: {fileID: 14975308294066400, guid: 40686a6c484c6574386f4e9f32d9d9d9,
     type: 3}
+  RandomSeed: 0
 --- !u!1 &2100521900
 GameObject:
   m_ObjectHideFlags: 0
