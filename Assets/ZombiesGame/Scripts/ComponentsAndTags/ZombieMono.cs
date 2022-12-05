@@ -16,6 +16,7 @@ namespace Nam.Zomebies
     {
         public override void Bake(ZombieMono authoring)
         {
+            //Đây là một IComponentData sẽ chứa dữ liệu RiseRate của ZombieMono
             AddComponent(new ZombieRiseRate { Value = authoring.RiseRate });
         }
     }
